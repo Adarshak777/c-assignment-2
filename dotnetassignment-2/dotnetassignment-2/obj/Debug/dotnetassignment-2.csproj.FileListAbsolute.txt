@@ -1,0 +1,8 @@
+C:\c#.net\c#\dotnetassignment-2\dotnetassignment-2\bin\Debug\dotnetassignment-2.exe.config
+C:\c#.net\c#\dotnetassignment-2\dotnetassignment-2\bin\Debug\dotnetassignment-2.exe
+C:\c#.net\c#\dotnetassignment-2\dotnetassignment-2\bin\Debug\dotnetassignment-2.pdb
+C:\c#.net\c#\dotnetassignment-2\dotnetassignment-2\obj\Debug\dotnetassignment-2.csproj.AssemblyReference.cache
+C:\c#.net\c#\dotnetassignment-2\dotnetassignment-2\obj\Debug\dotnetassignment-2.csproj.SuggestedBindingRedirects.cache
+C:\c#.net\c#\dotnetassignment-2\dotnetassignment-2\obj\Debug\dotnetassignment-2.csproj.CoreCompileInputs.cache
+C:\c#.net\c#\dotnetassignment-2\dotnetassignment-2\obj\Debug\dotnetassignment-2.exe
+C:\c#.net\c#\dotnetassignment-2\dotnetassignment-2\obj\Debug\dotnetassignment-2.pdb
